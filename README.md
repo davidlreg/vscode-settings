@@ -24,6 +24,7 @@ A curated collection of extensions and settings that optimize my development wor
 |-----------|-------------|------|
 | **Live Server** | Local development server with live reload | [Install](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
 | **Angular Language Service** | IntelliSense for Angular templates | [Install](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) |
+| **Angular Schematics** | Ultimate Angular code generation in Visual Studio Code | [Install](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) |
 | **JavaScript (ES6) Snippets** | ES6 code snippets | [Install](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) |
 | **es6string-html** | Syntax highlighting for HTML in ES6 template strings | [Install](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) |
 
